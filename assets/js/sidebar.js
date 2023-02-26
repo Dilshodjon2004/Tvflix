@@ -39,7 +39,7 @@ export function sidebar() {
 
     <div class="sidebar-footer">
       <p class="copyright">
-        &copy; Copyright 2023 <a href="https://www.instagram.com/dilshodbek_gulomov/">Dilshodbek Gulomov</a>
+        &copy; Copyright 2023 <a href="https://www.instagram.com/dilshodbek_gulomov/" target="_blank">Dilshodbek Gulomov</a>
       </p>
       <img
         src="./assets/images/tmdb-logo.svg"
